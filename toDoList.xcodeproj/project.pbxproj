@@ -14,6 +14,7 @@
 		C95483002C37669D0056B1D2 /* toDoListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95482FF2C37669D0056B1D2 /* toDoListTests.swift */; };
 		C954830A2C37669D0056B1D2 /* toDoListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95483092C37669D0056B1D2 /* toDoListUITests.swift */; };
 		C954830C2C37669D0056B1D2 /* toDoListUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C954830B2C37669D0056B1D2 /* toDoListUITestsLaunchTests.swift */; };
+		C95483192C376A150056B1D2 /* NewToDoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C95483182C376A150056B1D2 /* NewToDoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C95483052C37669D0056B1D2 /* toDoListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = toDoListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C95483092C37669D0056B1D2 /* toDoListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toDoListUITests.swift; sourceTree = "<group>"; };
 		C954830B2C37669D0056B1D2 /* toDoListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toDoListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C95483182C376A150056B1D2 /* NewToDoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewToDoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				C95482EE2C37669B0056B1D2 /* toDoListApp.swift */,
 				C95482F02C37669B0056B1D2 /* ContentView.swift */,
+				C95483182C376A150056B1D2 /* NewToDoView.swift */,
 				C95482F22C37669C0056B1D2 /* Assets.xcassets */,
 				C95482F42C37669C0056B1D2 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C95483192C376A150056B1D2 /* NewToDoView.swift in Sources */,
 				C95482F12C37669B0056B1D2 /* ContentView.swift in Sources */,
 				C95482EF2C37669B0056B1D2 /* toDoListApp.swift in Sources */,
 			);
